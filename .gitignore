@@ -1,0 +1,11 @@
+# Idea stuff
+.idea/
+
+# Parcel cache
+.cache/
+
+# Build output
+dist/
+
+# Node modules
+node_modules/
